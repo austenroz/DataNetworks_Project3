@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\austenr\desktop\datanetworks_project2-master\datanetworks_project2\source.cpp(259): warning C4018: '<': signed/unsigned mismatch
+c:\users\austenr\desktop\datanetworks_project2-master\datanetworks_project2\source.cpp(634): warning C4018: '<': signed/unsigned mismatch
+c:\users\austenr\desktop\datanetworks_project2-master\datanetworks_project2\source.cpp(858): warning C4018: '<': signed/unsigned mismatch
+  DataNetworks_Project2.vcxproj -> C:\Users\AustenR\Desktop\DataNetworks_Project2-master\Debug\DataNetworks_Project2.exe
